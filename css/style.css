@@ -224,7 +224,7 @@ header #newsletter label {
   height: 90%;
 }
 
-.welcome-area .image-bg {
+/*.welcome-area .image-bg {
   position: relative;
   background-size: cover !important;
   background: url("../images/imageBg.jpg");
@@ -262,10 +262,10 @@ header #newsletter label {
   height: 100%;
   z-index: 2;
   box-shadow: inset 0 0 0 2000px rgba(0, 0, 0, 0.6);
-}
+}*/
 .bird.vanta-bg{
   background-size: cover !important;
-  background: url("../images/birdBg.jpg");
+  background: url("../images/usedBg/birdBg.jpg");
   box-shadow: inset 0 0 0 2000px rgba(0, 0, 0, 0.6);
 }
 
@@ -356,14 +356,14 @@ header #newsletter label {
 }
 
 /*---------------------About-------------------*/
-.imgBg #about {
+/*.imgBg #about {
     background: url(../images/aboutBg.jpg);
     background-size: cover;
     box-shadow: inset 0 0 0 2000px rgba(0, 0, 0, 0.6);
-}
+}*/
 
 .vantaBg #about {
-    background: url(../images/aboutBg.jpg);
+    background: url(../images/usedBg/aboutBg.jpg);
     background-size: cover;
     box-shadow: inset 0 0 0 2000px rgba(0, 0, 0, 0.6);}
 
@@ -547,14 +547,14 @@ header #newsletter label {
 
 /*-----------------resume section-----------------*/
 
-.imgBg .resume{
+/*.imgBg .resume{
   background: url("../images/resumeBg.jpg");
   background-size: cover;
   box-shadow: inset 0 0 0 2000px rgba(0, 0, 0, 0.6);
-}
+}*/
 
 .vantaBg .resume{
-  background: url("../images/resumeBg.jpg");
+  background: url("../images/usedBg/resumeBg.jpg");
   background-size: cover;
   box-shadow: inset 0 0 0 2000px rgba(0, 0, 0, 0.6);}
 
@@ -650,14 +650,14 @@ header #newsletter label {
 }
 /*-----------------------Portfolio section-----------------*/
 
-.imgBg #portfolio {
+/*.imgBg #portfolio {
   background: url(../images/portfolioBg.jpg);
   background-size: cover;
   box-shadow: inset 0 0 0 2000px rgba(0, 0, 0, 0.6);
-}
+}*/
 
 .vantaBg #portfolio {
-  background: url(../images/portfolioBg.jpg);
+  background: url(../images/usedBg/portfolioBg.jpg);
   background-size: cover;
   box-shadow: inset 0 0 0 2000px rgba(0, 0, 0, 0.6);}
 
@@ -938,15 +938,15 @@ header #newsletter label {
 }*/
 
 /*------------------contact section-------------*/
-.imgBg .contact {
+/*.imgBg .contact {
   background: url("../images/contactBg.jpg");
   background-size: cover;
   color: #383838;
   box-shadow: inset 0 0 0 2000px rgba(0, 0, 0, 0.6);
-}
+}*/
 
 .vantaBg .contact {
-  background: url("../images/contactBg.jpg");
+  background: url("../images/usedBg/contactBg.jpg");
   background-size: cover;
   color: #383838;
   box-shadow: inset 0 0 0 2000px rgba(0, 0, 0, 0.6);
