@@ -633,6 +633,7 @@ header #newsletter label {
   margin-bottom: 6px;
   font-family: 'Roboto', sans-serif;
   font-weight: 500;
+  font-size: 16px;
 }
 
 .res-year-exp {
@@ -644,6 +645,7 @@ header #newsletter label {
   margin-bottom: 6px;
   font-family: 'Roboto', sans-serif;
   font-weight: 500;
+  font-size: 16px;
 }
 
 .res-year::before {
@@ -658,6 +660,7 @@ header #newsletter label {
 
 .res-descr {
   color: #FFF;
+  font-size: 13px;
 }
 /*-----------------------Portfolio section-----------------*/
 
