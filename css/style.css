@@ -275,7 +275,7 @@ hr {
 }*/
 .bird.vanta-bg{
   background-size: cover !important;
-  background: url("../images/usedBg/birdBg.jpg");
+  background: url("../images/usedBg/shire2.jpg");
   box-shadow: inset 0 0 0 2000px rgba(0, 0, 0, 0.6);
 }
 
@@ -373,15 +373,15 @@ hr {
 }*/
 
 .vantaBg #about {
-    background: url(../images/usedBg/aboutBg.jpg);
+    background: url(../images/usedBg/lothlorien.jpg);
     background-size: cover;
-    box-shadow: inset 0 0 0 2000px rgba(0, 0, 0, 0.6);}
+    box-shadow: inset 0 0 0 500px rgba(0, 0, 0, 0.6);}
 
 .img-hover {
   position: absolute;
   background: rgba(0,0,0,0.6);
   width: 75%;
-  height: 95%;
+  height: 85%;
   top: 12px;
   z-index: 2;
   left: 11px;
@@ -396,7 +396,7 @@ hr {
 #about .img-hover a {
   background: #fff;
   position: absolute;
-  bottom: 38px;
+  bottom: 125px; /* was 38 */
   padding: 14px 16px;
   display: block;
   margin: auto;
@@ -564,9 +564,9 @@ hr {
 }*/
 
 .vantaBg .resume{
-  background: url("../images/usedBg/resumeBg.jpg");
+  background: url("../images/usedBg/mordor.jpg");
   background-size: cover;
-  box-shadow: inset 0 0 0 2000px rgba(0, 0, 0, 0.6);}
+  box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.6);}
 
 .resume .title-small p::before {
   content: '';
@@ -970,10 +970,10 @@ hr {
 }*/
 
 .vantaBg .contact {
-  background: url("../images/usedBg/contactBg.jpg");
+  background: url("../images/usedBg/ring2.jpg");
   background-size: cover;
   color: #383838;
-  box-shadow: inset 0 0 0 2000px rgba(0, 0, 0, 0.6);
+  box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.6);
 }
 
 .contact .title-small p::before {
@@ -998,16 +998,21 @@ hr {
 
 .contact .section-title {
   color: #fff;
+  /*top: 100px;*/
 }
 
 .contact-content {
-  padding-top: 28px;
+  /*padding-top: 2px;*/
 }
 
 .contact-detail {
-  background: #fff;
-  padding: 36px 40px;
-}
+  /*background: #fff;*/
+  padding: 20px 20px;
+  /*opacity: 0.5;*/
+  border-radius: 50%;
+  color: #fff;
+  /* oval: border-radius: 100px / 50px; */ 
+ }
 
 .contact-header {
   padding-bottom: 16px;
@@ -1139,15 +1144,15 @@ footer .mainsite p {
 
 /*-------------------testimonial section---------------*/
 
-.imgBg #client-testimonial {
+/*.imgBg #client-testimonial {
   background: url(../images/unusedBg/testimonialBg.jpg);
   color: #383838;
   background-size: cover;
   box-shadow: inset 0 0 0 2000px rgba(0, 0, 0, 0.6);
 }
-
+*/
 .vantaBg #client-testimonial {
-  background: url(../images/unusedBg/testimonialBg.jpg);
+  background: url(../images/usedBg/Minas_Tirith.jpg);
   color: #383838;
   background-size: cover;
   box-shadow: inset 0 0 0 2000px rgba(0, 0, 0, 0.6);
