@@ -10,7 +10,7 @@ profile:
   image: profpic1.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>currently based in Tokyo, </p>
+    <p>currently based in <span style="color:#A512EE;">Tokyo</span>, </p>
     <p>with a permenant address in the San Francisco Bay Area</p>
 
 news: false # includes a list of news items
