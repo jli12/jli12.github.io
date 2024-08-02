@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: <span style="color:#A512EE;">Jason</span>
+first_name: Jason
 middle_name: 
-last_name: Li
+last_name: <span style="color:#A512EE;">Li</span>
 email: jasonfli12@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Jason's personal website
@@ -114,7 +114,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-  Don't miss my photography portfolio!
+  Don't miss my <a href="https://jasonfli12.myportfolio.com">photography portfolio</a>!
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
