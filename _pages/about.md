@@ -18,12 +18,14 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-\n 
-Hey there, thanks for stopping by. I'm Jason. 
-
+Hey there, thanks for stopping by. I'm Jason, and there's a picture of me on the right uncharacteristically not smiling to show a different side of me, since I'll probably be smiling if you see me in person.
 <!-- Perpetually curious, perpetually foolish, perpetually adventurous.  -->
 
-Currently I'm a master's student in Computational Neuroscience, jointly enrolled at ETH Zurich and the University of Zurich. I've just started writing my thesis on modeling an aspect of human memory systems using Artificial Neural Networks at RIKEN in Japan, under the joint supervision of [Dr. Louis Kang](https://louiskang.group) of RIKEN and [Professor Benjamin Grewe](https://grewelab.org/biography/) of ETH Zurich. 
+Currently I'm a master's student studying Computational Neuroscience, jointly enrolled at ETH Zurich and the University of Zurich. I've just started writing my thesis on modeling an aspect of human memory systems using Artificial Neural Networks at RIKEN in Japan, under the joint supervision of [Dr. Louis Kang](https://louiskang.group) of RIKEN and [Professor Benjamin Grewe](https://grewelab.org/biography/) of ETH Zurich. 
+
+Outside of my academics, I keep myself busy through a multitude of activities, such as [photography](http://jasonfli12.myportfolio.com), triathlon training, rock climbing, [baking](https://www.dropbox.com/sh/1565apuy314wg1u/AABiBvJeQZnzUj34YWZdcw1Fa?dl=0), learning new languages, etc. I'm also a very avid traveler, having lived extensively in 5 countries across 3 continents (USA, Hong Kong, France, Switzerland, Japan) and having visited 43 countries.
+
+I don't know how I may be of assistance, but in general feel free to reach out to me via any of the methods below :) cheers
 
 <!-- Academically, I have an expansive set of interests ranging across Neuroscience/Biology, Physics, Philosphy, Mathematics
 
