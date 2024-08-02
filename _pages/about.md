@@ -7,7 +7,7 @@ subtitle: <em> It's life that matters, nothing but life -- the process of discov
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profpic1.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>currently based in Tokyo, </p>
