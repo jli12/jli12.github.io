@@ -23,9 +23,9 @@ Hey there, thanks for stopping by. I'm Jason, and there's a picture of me on the
 
 Currently I'm a master's student studying Computational Neuroscience, jointly enrolled at ETH Zurich and the University of Zurich. I've just started writing my thesis on modeling an aspect of human memory systems using Artificial Neural Networks at RIKEN in Japan, under the joint supervision of [Dr. Louis Kang](https://louiskang.group) of RIKEN and [Professor Benjamin Grewe](https://grewelab.org/biography/) of ETH Zurich. 
 
-Outside of my academics, I keep myself busy through a multitude of activities, such as [photography](http://jasonfli12.myportfolio.com), triathlon training, rock climbing, [baking](https://www.dropbox.com/sh/1565apuy314wg1u/AABiBvJeQZnzUj34YWZdcw1Fa?dl=0), learning new languages, etc. I'm also a very avid traveler, having lived extensively in 5 countries across 3 continents (USA, Hong Kong, France, Switzerland, Japan) and having visited 43 countries.
+Outside of my academics, I keep myself busy through a multitude of activities, such as [photography](http://jasonfli12.myportfolio.com), triathlon training, rock climbing, [baking](https://www.dropbox.com/scl/fo/6wq62z96dsyin3l89u4rs/AN9qdpeN1sfFX6ULlhpcOXI?rlkey=rwwk3z687all6qke53t2iznjf&st=qooumzp1&dl=0), learning new languages, playing piano, etc. I'm also a very avid traveler, having lived extensively in 5 countries across 3 continents (USA, Hong Kong, France, Switzerland, Japan) and having visited 43 countries across 6 continents so far.
 
-I don't know how I may be of assistance, but in general feel free to reach out to me via any of the methods below :) cheers
+I don't know how I may be of assistance, but in general feel free to reach out to me via any of the methods below :) cheers!
 
 <!-- Academically, I have an expansive set of interests ranging across Neuroscience/Biology, Physics, Philosphy, Mathematics
 
