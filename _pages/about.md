@@ -18,7 +18,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hey there, thanks for stopping by. I'm Jason. Perpetually curious, perpetually foolish, perpetually adventurous. 
+Hey there, thanks for stopping by. I'm Jason. 
+
+<!-- Perpetually curious, perpetually foolish, perpetually adventurous.  -->
+
+Currently I'm a master's student in Computational Neuroscience, jointly enrolled at ETH Zurich and the University of Zurich. I've just started writing my thesis on modeling human memory systems using Artificial Neural Networks at RIKEN in Japan, under the joint supervision of [Dr. Louis Kang](https://louiskang.group) of RIKEN and [Professor Benjamin Grewe](https://grewelab.org/biography/) of ETH Zurich. 
 
 <!-- Academically, I have an expansive set of interests ranging across Neuroscience/Biology, Physics, Philosphy, Mathematics
 
