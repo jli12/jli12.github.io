@@ -1,8 +1,7 @@
 ---
 layout: page
 permalink: /photography/
-title: photography
-# <a href="https://jasonfli12.myportfolio.com" target="_self"><p>photography</p></a>
+title: <a href="https://jasonfli12.myportfolio.com" target="_self"><p>photography</p></a>
 nav: true
 nav_order: 1
 # cv_pdf: jason_cv.pdf
@@ -14,4 +13,3 @@ description:
 ---
 <!-- <embed src="/assets/pdf/jason_cv.pdf" width="500" height="375" 
  type="application/pdf"> -->
- asdf
