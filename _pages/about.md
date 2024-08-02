@@ -11,7 +11,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>currently based in <span style="color:#A512EE;">Tokyo</span>, </p>
-    <p>with a permenant address in the <span style="color:#A512EE;">San Francisco Bay Area</span></p>
+    <p>with a permanent address in the <span style="color:#A512EE;">San Francisco Bay Area</span></p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
