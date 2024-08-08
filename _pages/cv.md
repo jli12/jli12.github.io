@@ -11,5 +11,5 @@ description:
 # toc:
 #   sidebar: left
 ---
-<embed src="/assets/pdf/jason_cv.pdf" width="800" height="615" 
+<embed src="/assets/pdf/jason_cv.pdf" width="800" height="600" 
  type="application/pdf">
